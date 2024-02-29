@@ -1180,7 +1180,7 @@ html[data-theme=dark] #app-container::before {
 .dark-theme,
 html[data-theme=dark] {
   --ct-primary-color: #0f0;
-  --ct-secondary-color: #6096ba;
+  --ct-secondary-color: purple;
   --ct-warning-color: #ff7262;
   --ct-success-color: #0dcf82;
   --ct-highlight-color: #d3a400;
