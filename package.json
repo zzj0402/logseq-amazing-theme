@@ -1,21 +1,16 @@
 {
-  "name": "logseq-dev-theme",
-  "author": "pengx17",
-  "version": "1.26.17",
-  "description": "A custom theme for dev",
+  "name": "logseq-amazing-theme",
+  "author": "Zing",
+  "version": "0.0.9",
+  "description": "Amazing theme for Logseq",
   "logseq": {
     "themes": [
       {
-        "name": "Dev theme",
+        "name": "Amazing Theme",
         "url": "./custom.css"
-      },
-      {
-        "name": "Dev theme - WITHOUT bullet threading",
-        "url": "./no_bullet_threading.css",
-        "description": "Dev theme without bullet threading"
       }
     ],
-    "id": "pengx17_dev_theme",
+    "id": "amazing-theme",
     "icon": "./logo.png"
   },
   "scripts": {

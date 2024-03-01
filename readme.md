@@ -1,4 +1,14 @@
-# Logseq Dev Theme
+# Logseq Amazing Theme
+
+## Development Requirements
+
+```bash
+brew install sass/sass/sass
+```
+
+```bash
+yarn install
+```
 
 🔔 Looking for maintainers! 🔔
 
